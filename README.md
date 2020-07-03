@@ -8,7 +8,7 @@ It has been developed for Windows with Incremental Engine, a simple object-orien
 
 This videogame and his engine has been enterily created by **Pol Vega** (polvegadiaz@gmail.com).
 
-[![LinkedIn](https://i.imgur.com/IpgDryO.png)](https://www.linkedin.com/in/vega-diaz/) [![Website](https://i.imgur.com/pN1kn8m.png)](http://polvega.net)  [![Twitter](https://i.imgur.com/Ax2ai92.png)](https://twitter.com/Thendplayer) [![Phone](https://i.imgur.com/diEYszG.png)](tel:+34692434197)
+[![LinkedIn](https://i.imgur.com/IpgDryO.png)](https://www.linkedin.com/in/vega-diaz/) [![Website](https://i.imgur.com/pN1kn8m.png)](http://polvega.net)  [![Twitter](https://i.imgur.com/Ax2ai92.png)](https://twitter.com/Thendplayer) [![Phone](https://i.imgur.com/diEYszG.png)](http://polvega.net)
 
 ## About Incremental Engine
 Learn more about this librery in its [GitHub page](https://github.com/Thendplayer/IncrementalEngine), or check its [documentation](https://thendplayer.github.io/IncrementalEngineDocumentation/).
