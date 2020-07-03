@@ -16,7 +16,7 @@ Learn more about this librery in its [GitHub page](https://github.com/Thendplaye
 ## Download
 
 1) Create your own games with [Incremental Engine](https://github.com/Thendplayer/IncrementalEngineSolution).
-2) Download and play this game for free on [Itch.io](https://pol-vega.itch.io/magic-idle).
+2) Download and play this game for free in [Itch.io](https://pol-vega.itch.io/magic-idle).
 3) You can also get the current development version from the Git repository. In that case, follow the installation instructions.
 
 ## Install solution
