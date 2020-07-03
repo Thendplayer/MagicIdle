@@ -1,7 +1,7 @@
 ![Magic Idle](https://i.imgur.com/JHYdx1z.png)
 # Magic Idle — A game developed with [Incremental Engine](https://github.com/Thendplayer/IncrementalEngine)
 
-**Magic Idle** is a simple **Idle** videogame where you generate and trade with magic to collect the highest magic value. 
+**Magic Idle** is a simple **Idle** videogame where you can generate and trade with magic to collect the highest magic value. 
 It has been developed for Windows with Incremental Engine, a simple object-oriented library focused on incremental games development.
 
 ## Author
@@ -20,7 +20,7 @@ Learn more about this librery in its [GitHub page](https://github.com/Thendplaye
 3) You can also get the current development version from the Git repository. In that case, follow the installation instructions.
 
 ## Install solution
-| Install the following software before use the library |
+| Install the following software before using the library |
 | ------ |
 | [Microsoft's Visual Studio 2019](https://visualstudio.microsoft.com/es/vs/) |
 | [DirectX Software Development Kit](https://www.microsoft.com/en-us/download/confirmation.aspx?id=6812) |
